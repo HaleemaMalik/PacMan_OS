@@ -8,7 +8,6 @@ Project Description:
 
 Phase 1 - Setting up Dedicated Threads for Game Modules:
 Game Engine Thread:
-
 ● Create a dedicated thread for the game engine, which is responsible for coordinating the
 overall game flow, handling input from players, updating the game state, and rendering
 graphics.
